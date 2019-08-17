@@ -1,2 +1,2 @@
-# Pyhton
-#principais code python 3
+# Python
+#teste code python3
